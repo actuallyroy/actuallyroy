@@ -1,3 +1,3 @@
-#actuallyroy
+# @actuallyroy
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+I am a curious human being with passion for computers.
