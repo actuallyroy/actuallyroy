@@ -1,10 +1,72 @@
-# @actuallyroy
+# Amit Kumar
 
-### I am a curious alien being with passion for computers.
-My name is Amit Kumar and currently I'm exploring the world of opportunities.
+Software Engineer focused on building scalable applications and practical systems.
 
-Welcome to my github page!
+I work across backend, frontend, and infrastructure — turning ideas into production-ready software.
 
-My best work yet... [my portfolio](https://actuallyroy.github.io)
+Website: https://actuallyroy.com/
 
-```npm install curiosity```
+---
+
+## About
+
+I build:
+
+- Android applications
+- Interactive web applications
+- Small games and creative tools
+- API-integrated systems
+
+My approach emphasizes clarity, maintainability, and iterative improvement.
+
+---
+
+## Selected Projects
+
+### Doggo_Notes
+Android note-taking and task management application.
+
+### LokLok
+Android lock-screen drawing application with device synchronization.
+
+### SerpentileGame
+Browser-based serpentine (snake-style) game built using JavaScript.
+
+### actuallyroy.github.io
+Personal portfolio built with HTML, CSS, and JavaScript.
+
+### weather-forecast
+Weather application exploring API integration and dynamic UI rendering.
+
+### The-Grocery-Store
+UI-focused grocery store project (fork) demonstrating layout and frontend structure.
+
+---
+
+## Technical Stack
+
+Languages:
+- Java
+- JavaScript
+- HTML
+- CSS
+
+Platforms:
+- Android
+- Web
+
+Tools:
+- Git
+- GitHub
+- REST APIs
+
+---
+
+## GitHub
+
+![Followers](https://img.shields.io/github/followers/actuallyroy?label=Followers&style=flat-square)
+![Stars](https://img.shields.io/github/stars/actuallyroy?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+
+---
+
+Open to collaboration on practical software projects and system-focused applications.
